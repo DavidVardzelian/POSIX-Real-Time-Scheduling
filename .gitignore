@@ -9,7 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
-*.DS_Store
+.DS_Store
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -373,6 +373,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.DS_Store
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
